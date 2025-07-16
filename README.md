@@ -1,4 +1,4 @@
-# 📘 SQL Assignment Projects – ClassicModels + Custom Schemas
+# 📘 SQL Assignment Projects –
 
 This repository contains a collection of SQL-based tasks, case statements, joins, stored procedures, and window functions, designed to demonstrate fundamental to advanced SQL concepts. The queries use both the `classicmodels` sample database and custom table creations.
 
